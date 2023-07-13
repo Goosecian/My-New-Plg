@@ -1,0 +1,51 @@
+[++Status++]
+
+[Dist: 382.8]
+D3000000 08000000
+008358B4 43BF660F
+
+[Dist: nan]
+D3000000 08000000
+008358B4 FFFFFFFF
+
+[Days: 9999]
+D3000000 08000000
+008358B0 0000270F
+
+[Mined: 9999]
+D3000000 08000000
+008358AC 0000270F
+
+[--]
+
+[++Duplicate Slots++]
+
+[Duplicate Item 8. Slot (9999)]
+00358964 0000270F
+
+[Duplicate Item 7. Slot (9999)]
+00358928 0000270F
+
+[Duplicate Item 6. Slot (9999)]
+003588EC 0000270F
+
+[Duplicate Item 5. Slot (9999)]
+003588B0 0000270F
+
+[Duplicate Item 4. Slot (9999)]
+00358874 0000270F
+
+[Duplicate Item 3. Slot (9999)]
+00358838 0000270F
+
+[Duplicate Item 2. Slot (9999)]
+003587FC 0000270F
+
+[Duplicate Item 1. Slot (9999)]
+003587C0 0000270F
+
+[--]
+
+[Random % Item]
+003587C4 0000270F
+
