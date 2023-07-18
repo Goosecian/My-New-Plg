@@ -8,5 +8,6 @@ Plugin for Battleminerz (EU)(00040000001C9D00.txt)
 
 Plugin for Cube Creator DX (EU)
 (00040000001D2E00.txt)
+This plugin is not done yet
 
 basic stuff, so yeah pretty lame
