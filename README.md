@@ -1,6 +1,6 @@
 # My-New-Plgs
 
-This is a plugin for "Cube Creator 3D" (Nort American version) (0004000000151100.txt)
+This is a plugin for "Cube Creator 3D" (North American version) (0004000000151100.txt)
 
 Plugin for Battleminer (EU) (000400000014DA00.txt)
 
